@@ -14,5 +14,6 @@
 - Sales by Product
 - Monthly Sales Trend
 - Sales by Sales Reps
+  [watch the demo on google drive](https://drive.google.com/file/d/1yOsjhBgZjSSgPlU1DplyDZSQh7otmB66/view?usp=drivesdk)
 👤 Created by Abdulwasiu Islamiyat Damilola  
 [LinkedIn]https://www.linkedin.com/in/islamiyat-abdulwasiu-38a677366
